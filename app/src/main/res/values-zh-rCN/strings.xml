@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A9录音机</string>
+    <string name="start">开始</string>
+    <string name="stop">停止</string>
+    <string name="name">文件名</string>
+    <string name="playback">查看</string>
+    <string name="button_ok">"确定"</string>
+    <string name="recording_stopped" >"录音停止"</string>
+</resources>

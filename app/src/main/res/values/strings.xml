@@ -1,0 +1,23 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">A9SoundRecorder</string>
+    <string name="start">start</string>
+    <string name="stop">stop</string>
+    <string name="name">file name</string>
+    <string name="duration">00:00:00</string>
+    <string name="playback">playback</string>
+    <string name="button_ok">OK</string>
+
+    <string name="accessing_db_fail">访问数据库失败.</string>
+    <string name="saving_fail">存储失败</string>
+    <string name="recording_fail">录音失败</string>
+    <string name="recorder_occupied">录音功能被占用.</string>
+    <string name="storage_full">默认存储空间已满.</string>
+    <string name="not_available">当前不可用</string>
+    <string name="tell_save_record_success">保存成功</string>
+    <string name="recording_stopped">Recording stopped</string>
+
+    <string name="timer_format" translatable="false"><xliff:g id="format">%02d:%02d:%02d</xliff:g></string>
+    <string name="audio_db_title_format"><xliff:g id="format">yyyy-MM-dd HH:mm:ss</xliff:g></string>
+    <string name="important">IMP_</string>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="default_params">
+        <!-- Encode type is MediaRecorder.AudioEncoder.AAC -->
+        <item >3</item>
+        <!-- Audio channel is stereo  -->
+        <item >2</item>
+        <!-- Encode bitrate -->
+        <item >48000</item>
+        <!-- Sample rate -->
+        <item >32000</item>
+        <!-- Recording file outputFormat is MediaRecorder.OutputFormat.THREE_GPP -->
+        <item >1</item>
+    </integer-array>
+</resources>
